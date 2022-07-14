@@ -13,7 +13,7 @@ body {
     margin: 60px auto;
     width: 70%;
   /*blur code (below) suggested and provided by jeffalo*/
-    backdrop-filter: blur(34px) brightness(0.85);
+    backdrop-filter: blur(34px) brightness(0.40);
     padding: 4em
 }
 nav ul, footer ul {
